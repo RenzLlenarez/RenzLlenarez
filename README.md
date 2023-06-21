@@ -1,5 +1,3 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](renzllenarez.github.io)
-
 <h1 align="center">Hi 👋, I'm Renz Llenarez</h1>
 <h3 align="center">A Passionate Data Analyst from the Philippines.</h3>
 
