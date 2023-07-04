@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Cloud.**
 
-- 👨‍💻 All of my projects are available at [renzllenarez.github.io](renzllenarez.github.io)
+- 👨‍💻 All of my projects are available at [renzllenarez.github.io](https://renzllenarez.github.io)
 
 - 💬 Ask me about **SQL**
 
